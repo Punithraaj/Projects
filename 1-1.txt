@@ -1,0 +1,12 @@
+0----------------
+ &SUPz,&HADD
+MOVEM HADD , SUPz
+1----------------
+ &a
+PLZ WORK
+0----------------
+ &SUPz,&HADD
+MOVEM HADD , SUPz
+1----------------
+ &a
+PLZ WORK

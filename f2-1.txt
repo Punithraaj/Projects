@@ -1,0 +1,6 @@
+ADD AREG , N
+INCR 30 , 20
+MOVEM AREG , N
+N DS 1
+happy
+END
